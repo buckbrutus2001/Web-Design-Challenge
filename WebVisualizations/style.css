@@ -21,8 +21,22 @@
   padding-left: 30px;
   padding-right: 30px;
   margin-top: 30px;
-  /* margin-left: 10px;
-  margin-right: 10px; */
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 30px;
+  /* align-content: left; */
+  position: relative;
+}
+
+.side-box{
+  background: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 30px;
+  margin-left: 100px;
+  margin-right: 10px;
   margin-bottom: 30px;
   align-content: center;
   position: relative;
@@ -46,19 +60,7 @@
   margin-top: 80px;
 }
 
-.side-box{
-  background: white;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  padding-left: 30px;
-  padding-right: 30px;
-  margin-top: 30px;
-  margin-left: 100px;
-  margin-right: 10px;
-  margin-bottom: 30px;
-  align-content: center;
-  position: relative;
-}
+
 
 .navbar {
   background-color: rgb(2, 155, 140);
